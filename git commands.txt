@@ -1,0 +1,14 @@
+git config --global  user.name  ''
+
+git clone link
+
+ls
+
+git status
+
+git add data.txt
+
+git commit
+
+git push
+
